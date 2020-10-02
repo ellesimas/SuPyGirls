@@ -370,6 +370,13 @@ Iterações
 
 Funções
 ---------
+Funções são objetos python que aceitam argumentos (entrada da função), processam esses argumentos e retornam valores (saída da função).
+
+.. image:: _static/função_diagrama.svg
+    :height: 150px
+    :width: 150px
+    :align: center
+
 .. code:: python
 
 Classes
